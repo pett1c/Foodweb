@@ -4,7 +4,7 @@ Programmierungprojekt F | Nahrungsnetz Generator
 ## Anforderungen
 Man soll 2 Tiere einfügen können, wobei das erste dem zweiten überlegen ist.
 Es werden so viele Tiere hinzugefügt wie erwünscht ist, danach wird das Nahrungsnetz generiert.
-Wichtig dabei ist, das wenn ein Tier X >1 Eingegeben wird, dass zum Tier X ein weiterer Pfeil hinzugefügt wird, anstatt es als seperates "neues" Tier zu speichern. 
+Wichtig dabei ist, das wenn ein Tier X >1 mal Eingegeben wird, dass zum Tier X ein weiterer Pfeil hinzugefügt wird, anstatt es als seperates "neues" Tier zu speichern. 
 Optionak kann der User das Nahrungsnetz via Screenshot speichern.
 
 ## Testfallspezifikation
